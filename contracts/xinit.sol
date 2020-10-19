@@ -1546,7 +1546,6 @@ contract ERC20Mintable is ERC20, MinterRole {
         return true;
     }
 }
-
 // File: openzeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol
 
 
@@ -1643,7 +1642,6 @@ contract xinitToken is ERC20Mintable, ERC20Detailed {
 
 
 }
-
 /**
  * @title SampleCrowdsale
  * @dev This is an example of a fully fledged crowdsale.
